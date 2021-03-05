@@ -1,0 +1,3 @@
+## a Basic python Web scraper, with beautiful soup
+
+Trying to learn web scraping...
